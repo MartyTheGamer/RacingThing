@@ -1,0 +1,13 @@
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.AssemblyInfo.cs
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.exe
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.deps.json
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.runtimeconfig.json
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.runtimeconfig.dev.json
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.dll
+C:\Users\marty\source\repos\RacingThing\RacingThing\bin\Release\netcoreapp3.1\RacingThing.pdb
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.dll
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.pdb
+C:\Users\marty\source\repos\RacingThing\RacingThing\obj\Release\netcoreapp3.1\RacingThing.genruntimeconfig.cache
